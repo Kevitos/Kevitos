@@ -1,6 +1,5 @@
 ### Hi 👋
 I am a systems analysis and development student who is about to finish the course and is looking for opportunities and collaboration in projects related to front end programming
-- 🔭 I am currently working with EFT systems at Pay&go company
 - 🌱 I'm currently trying to further develop my front end techniques through Alura's platform.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Kevitos)
